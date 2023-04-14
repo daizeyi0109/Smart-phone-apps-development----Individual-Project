@@ -4,7 +4,7 @@
 $ git clone https://github.com/daizeyi0109/Individual-Project---7506.git
 
 # Access
-$ cd calculator-app
+$ cd Individual-Project---7506
 
 # Install dependencies
 $ yarn install
