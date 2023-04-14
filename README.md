@@ -10,7 +10,6 @@ $ cd calculator-app
 $ yarn install
 
 # Run the project
-$ yarn ios // for iOS
-$ yarn android // for Android
+expo start
 
 # then open the app in Expo
